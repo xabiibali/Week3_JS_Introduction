@@ -32,13 +32,13 @@ Assignments are outlined in the `basics.js`, `functions.js`, `arrays.js` and `ob
 - [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [ ] Push commits: git push origin `<firstName-lastName>`.
 
-### Task 2: MVP
+## Task 2: MVP
 
 Find the `basics.js`, `functions.js`, `arrays.js` and `objects.js` files and complete the tasks as they're written in there. 
 
 As you work on your code you should make use of `console.log` to check your progress and debug.
 
-### Task 3: Stretch Goals
+## Task 3: Stretch Goals
 
 After you have completed the requirements, try any of the following challenges. As always, note that these may require additional research beyond what you learned in this module.
 
