@@ -1,6 +1,10 @@
 // To help us use arrays with real world problems we are going to simulate a used car dealer that has 50 cars in their inventory.
 
+// Si aad u barato isticmaalka ARRAY, waxaan halkaan ku heynaa meesha gawaarida lagu gado oo 50 gaari heyso.
+
 // The car dealer has all of their inventory housed in the array seen below.  Scroll down past the data to find out how you can help the car dealer.
+
+// Baabuurta oo dhan waxay ku jiraan array, hoos waxaa ku qoran babab aad ku caawin kartid ganacsigaan adigoo code isticmaalayo.
 
 let inventory = [
     { id: 1, car_make: "Lincoln", car_model: "Navigator", car_year: 2009 },
@@ -55,23 +59,20 @@ let inventory = [
     { id: 50, car_make: "Lincoln", car_model: "Town Car", car_year: 1999 }
   ];
   
-  // Example 1 for loop:
+  // Example Challenge:
+
+  // The dealer wants to know how many "Mazda" cars they have. / Waxay rabaan inay ogaadaan meeqo gaari oo "Mazda" ah ayaa yaalo.
   
-  // const arr = ['a', 'b', 'c', 'd'];
-  // for (let i = 0; i < arr.length; i++) {
-  //     console.log(arr[i]);
-  // }
-  // 'a' 'b' 'c' 'd'
-  
-  // Example 2 for loop:
-  
-  // const arr = [12, 13, 14, 15];
-  // const evens = [];
-  // for (let i = 0; i < arr.length; i++) {
-  //     if (arr[i] % 2 === 0) { evens.push(arr[i]); }
-  // }
-  // console.log(evens);
-  // [12, 14]
+       let mazdaCars = []
+       
+      for (let i = 0; i < inventory.length; i++) {
+           if (inventory[i].car_make == "Mazda"){
+               mazdaCars.push(inventory[i].car_make)
+           }
+       }
+    
+   console.log("We have ", mazdaCars.length,  "Mazda Cars")
+
   
   // ==== Challenge 1 ====
   // The dealer can't recall the information for a car with an id of 33 on his lot. Help the dealer find out which car has an id of 33 by logging the car's year, make, and model in the console log provided to you below:
