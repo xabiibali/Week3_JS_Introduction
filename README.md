@@ -20,7 +20,7 @@ This week you will be working on Javascript fundamentals to practice what you ha
 
 Assignments are outlined in the `basics.js`, `functions.js`, `arrays.js` and `objects.js` files, please read the instructions carefully for each task and complete it. Note that you may have to use your googling skills to research and look things up if you do not have all the information you need to complete the task.
 
-Howsha lagaa rabo inaa qabato waxay ku jirtaa `basics.js`, `functions.js`, `arrays.js` and `objects.js`. Fadlan si taxadar leh u akhri tilmaamaha halkaas ku xusan. Waad isticmaali kartaa Google si aad ooga shaqeyso assignment-ga.
+<i>Howsha lagaa rabo inaa qabato waxay ku jirtaa `basics.js`, `functions.js`, `arrays.js` and `objects.js`. Fadlan si taxadar leh u akhri tilmaamaha halkaas ku xusan. Waad isticmaali kartaa Google si aad ooga shaqeyso assignment-ga.</i>
 
 ## Instructions
 
@@ -39,11 +39,11 @@ Howsha lagaa rabo inaa qabato waxay ku jirtaa `basics.js`, `functions.js`, `arra
 
 Find the `basics.js`, `functions.js`, `arrays.js` and `objects.js` files and complete the tasks as they're written in there. 
 
-File-sha `basics.js`, `functions.js`, `arrays.js` and `objects.js` hel, kadib ka shaqee.
+<i>File-sha `basics.js`, `functions.js`, `arrays.js` and `objects.js` hel, kadib ka shaqee.</i>
 
 As you work on your code you should make use of `console.log` to check your progress and debug.
 
-`console.log` isticmaal si aad u ogaato inay wax kuu shaqeynayaan.
+<i>`console.log` isticmaal si aad u ogaato inay wax kuu shaqeynayaan.</i>
 
 ## Task 3: Stretch Goals / Shaqo dheeraad ah - Fadlan ha bilaabin shaqadaan adigoon mida kore dhameynin.
 
