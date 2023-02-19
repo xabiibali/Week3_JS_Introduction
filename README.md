@@ -16,7 +16,7 @@ functions and describe their differences. / Isticmaal function hababka kala duwa
 
 This week you will be working on Javascript fundamentals to practice what you have learned. You will be given prompts to guide you and you should read the prompts carefully.
 
-Toddobaadkan waxaad ka shaqayn doontaa Javascript aasaasiga ah si aad ugu dhaqanto waxaad baratay. Waxaa lagu siin doonaa tilmaamo ku haga oo waa inaad si taxadar leh u akhrido tilmaamaha.
+<i>Toddobaadkan waxaad ka shaqayn doontaa Javascript aasaasiga ah si aad ugu dhaqanto waxaad baratay. Waxaa lagu siin doonaa tilmaamo ku haga oo waa inaad si taxadar leh u akhrido tilmaamaha.</i>
 
 Assignments are outlined in the `basics.js`, `functions.js`, `arrays.js` and `objects.js` files, please read the instructions carefully for each task and complete it. Note that you may have to use your googling skills to research and look things up if you do not have all the information you need to complete the task.
 
